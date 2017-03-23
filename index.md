@@ -50,7 +50,7 @@ Initiativen für unterrepräsentierte Gruppen:
 * [Refugees on Rails](http://refugeesonrails.org/de/) hat als Ziel,
   Flüchtlingen Ruby on Rails beizubringen.
 
-*Die [Djano Girls](https://djangogirls.org/) haben ein ähnliches
+* Die [Djano Girls](https://djangogirls.org/) haben ein ähnliches
 Angebot wie die Rails Girls mit dem Python-Webframework Django.
 
 * Bei der [ClojureBridge](http://www.clojurebridge.org/) steht die
