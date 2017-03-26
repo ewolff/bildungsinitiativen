@@ -75,6 +75,10 @@ Programmieren-Lernen.
 * [Women who Code](https://www.womenwhocode.com/) hilft Frauen bei der
 Karriere in der Software-Entwicklung.
 
+* [CodeDoor](http://codedoor.org/) unterstützt Geflüchtete mit Hardware, 
+Mentoring und Coaching die ersten Schritte zu einem Abschluss in Informatik 
+zu gehen.
+
 ## Weitere Initiativen
 
 Allgemeine Initiativen, um Wissen über Software-Entwicklung weiter zu verbreiten:
