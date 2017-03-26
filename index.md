@@ -80,6 +80,10 @@ eingetragener, gemeinnütziger Verein aus der Rhein-Main Region, der Frauen
 den Zugang zu technischem Schlüsselwissen ermöglicht und das kreative 
 Potential von Tech und technischen Berufen aufzeigt.
 
+* [CodeDoor](http://codedoor.org/) unterstützt Geflüchtete mit Hardware, 
+Mentoring und Coaching die ersten Schritte zu einem Abschluss in Informatik 
+zu gehen.
+
 ## Weitere Initiativen
 
 Allgemeine Initiativen, um Wissen über Software-Entwicklung weiter zu verbreiten:
