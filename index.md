@@ -75,6 +75,11 @@ Programmieren-Lernen.
 * [Women who Code](https://www.womenwhocode.com/) hilft Frauen bei der
 Karriere in der Software-Entwicklung.
 
+* Die [Techettes Frankfurt](http://techettes-frankfurt.com/) sind ein 
+eingetragener, gemeinnütziger Verein aus der Rhein-Main Region, der Frauen
+den Zugang zu technischem Schlüsselwissen ermöglicht und das kreative 
+Potential von Tech und technischen Berufen aufzeigt.
+
 ## Weitere Initiativen
 
 Allgemeine Initiativen, um Wissen über Software-Entwicklung weiter zu verbreiten:
