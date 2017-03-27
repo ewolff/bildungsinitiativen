@@ -32,6 +32,8 @@ Initiativen, um Kinder u.a. an Programmierung heranzuführen.
 
 * [CodeWeek EU](http://codeweek.eu/) bietet sehr viele
   unterschiedliche Angebote - meistens für Kinder.
+  
+* [Code.org](http://code.org) bietet mit interessantenAufgaben zu Themen wir Angry Birds oder Star Wars einen Einstieg ins Programmieren für Kinder an.  
 
 ## Unterrepräsentierte Gruppen
 
