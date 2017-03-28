@@ -77,6 +77,8 @@ Programmieren-Lernen.
 * [Women who Code](https://www.womenwhocode.com/) hilft Frauen bei der
 Karriere in der Software-Entwicklung.
 
+* [Girls make Games](http://girlsmakegames.com/) Unter dem Namen finden international Workshops von Freiwilligen statt, um junge Mädchen für eine Karriere in der Spieleentwicklung zu begeistern.
+
 * Die [Techettes Frankfurt](http://techettes-frankfurt.com/) sind ein 
 eingetragener, gemeinnütziger Verein aus der Rhein-Main Region, der Frauen
 den Zugang zu technischem Schlüsselwissen ermöglicht und das kreative 
