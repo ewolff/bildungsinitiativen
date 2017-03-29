@@ -1,6 +1,10 @@
 ## Bildungsinitiativen-Liste
 
-Dies ist eine Liste von Bildungsinitiativen. Sie beruht auf meinem Blog-Post in meinem [Continuous Architecture Blog](https://www.heise.de/developer/Continuous-Architecture-2687847.html). Pull Requests mit Ergänzungen sind willkommen.
+Dies ist eine Liste von Bildungsinitiativen. Sie beruht auf meinem
+[Blog-Post](https://www.heise.de/developer/artikel/Mit-Code-und-Bildung-die-Welt-verbessern-3663044.html)
+in meinem
+[Continuous Architecture Blog](https://www.heise.de/developer/Continuous-Architecture-2687847.html). Pull
+Requests mit Ergänzungen sind willkommen.
 
 ## Kinder
 
